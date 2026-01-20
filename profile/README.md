@@ -1,5 +1,3 @@
-<div align="center" style="height: 128px;">
-    <img src="../assets/images/fruit-logo.png" />
+<div align="center">
+    <img src="../assets/images/fruit-logo.png" width="128" />
 </div>
-
----
